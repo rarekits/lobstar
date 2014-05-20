@@ -2,22 +2,46 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ad3b4ad0-9a38-4c1a-97bc-9dd33050296a" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fritzing/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fritzing/extract-netlist.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/lobstar.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/other.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/testrunner.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fritzing/gerbers/0.2.1/lobstar-0-2-1.zip" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lobstar-0.2.1.fzz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lobstar-0.3.fzz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fritzing/gerbers/0.2.1/lobstar-0.2.1_contour.gm1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fritzing/gerbers/0.2.1/lobstar-0.2.1_copperBottom.gbl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fritzing/gerbers/0.2.1/lobstar-0.2.1_copperTop.gtl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fritzing/gerbers/0.2.1/lobstar-0.2.1_drill.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fritzing/gerbers/0.2.1/lobstar-0.2.1_maskBottom.gbs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fritzing/gerbers/0.2.1/lobstar-0.2.1_maskTop.gts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fritzing/gerbers/0.2.1/lobstar-0.2.1_pnp.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fritzing/gerbers/0.2.1/lobstar-0.2.1_silkBottom.gbo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fritzing/gerbers/0.2.1/lobstar-0.2.1_silkTop.gto" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fritzing/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fritzing/extract-netlist.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fritzing/lobstar-gerbers.zip" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fritzing/sm-spike.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lobstar-0.2_netlist.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test1.fzz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test1_netlist.xml" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/fritzing/gerbers/lobstar-0.2_contour.gm1" afterPath="$PROJECT_DIR$/fritzing/gerbers/0.2/lobstar-0.2_contour.gm1" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/fritzing/gerbers/lobstar-0.2_copperBottom.gbl" afterPath="$PROJECT_DIR$/fritzing/gerbers/0.2/lobstar-0.2_copperBottom.gbl" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/fritzing/gerbers/lobstar-0.2_copperTop.gtl" afterPath="$PROJECT_DIR$/fritzing/gerbers/0.2/lobstar-0.2_copperTop.gtl" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/fritzing/gerbers/lobstar-0.2_drill.txt" afterPath="$PROJECT_DIR$/fritzing/gerbers/0.2/lobstar-0.2_drill.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/fritzing/gerbers/lobstar-0.2_maskBottom.gbs" afterPath="$PROJECT_DIR$/fritzing/gerbers/0.2/lobstar-0.2_maskBottom.gbs" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/fritzing/gerbers/lobstar-0.2_maskTop.gts" afterPath="$PROJECT_DIR$/fritzing/gerbers/0.2/lobstar-0.2_maskTop.gts" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/fritzing/gerbers/lobstar-0.2_pnp.txt" afterPath="$PROJECT_DIR$/fritzing/gerbers/0.2/lobstar-0.2_pnp.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/fritzing/gerbers/lobstar-0.2_silkBottom.gbo" afterPath="$PROJECT_DIR$/fritzing/gerbers/0.2/lobstar-0.2_silkBottom.gbo" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/fritzing/gerbers/lobstar-0.2_silkTop.gto" afterPath="$PROJECT_DIR$/fritzing/gerbers/0.2/lobstar-0.2_silkTop.gto" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lobstar-0.2.fzz" afterPath="$PROJECT_DIR$/lobstar-0.2.fzz" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lobstar-filled.fzz" afterPath="$PROJECT_DIR$/lobstar-filled.fzz" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="lobstar.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="ad3b4ad0-9a38-4c1a-97bc-9dd33050296a" time="1383494493957" ignored="false" />
+    <file path="/Dummy.txt" changelist="ad3b4ad0-9a38-4c1a-97bc-9dd33050296a" time="1400580308603" ignored="false" />
     <file path="/extract-netlist.py" changelist="ad3b4ad0-9a38-4c1a-97bc-9dd33050296a" time="1383407843247" ignored="false" />
     <file path="/sm-spike.py" changelist="ad3b4ad0-9a38-4c1a-97bc-9dd33050296a" time="1383494535045" ignored="false" />
+    <file path="$PROJECT_DIR$/../sknoman/blogcrawl/__init__.py" changelist="ad3b4ad0-9a38-4c1a-97bc-9dd33050296a" time="1384602001173" ignored="false" />
+    <file path="$PROJECT_DIR$/../sknoman/blogcrawl/e2e_test.py" changelist="ad3b4ad0-9a38-4c1a-97bc-9dd33050296a" time="1384602349930" ignored="false" />
+    <file path="/e2e_test.py" changelist="ad3b4ad0-9a38-4c1a-97bc-9dd33050296a" time="1384602333874" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,19 +60,7 @@
     <favorites_list name="lobstar" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="extract-netlist.py" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/fritzing/extract-netlist.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="23" column="98" selection-start="466" selection-end="1014" vertical-scroll-proportion="0.44230768">
-              <folding>
-                <element signature="e#0#27#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -72,8 +84,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="46" />
-    <option name="y" value="125" />
+    <option name="x" value="37" />
+    <option name="y" value="25" />
     <option name="width" value="1765" />
     <option name="height" value="955" />
   </component>
@@ -103,6 +115,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -134,16 +147,19 @@
               <option name="myItemId" value="fritzing" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="gerbers" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="recentsLimit" value="5" />
-    <property name="last_opened_file_path" value="$USER_HOME$/tmp" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../sknoman" />
     <property name="restartRequiresConfirmation" value="true" />
   </component>
   <component name="PyConsoleOptionsProvider">
@@ -153,6 +169,11 @@
     <option name="myDjangoConsoleState">
       <PyConsoleSettings />
     </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/fritzing/gerbers/0.2" />
+    </key>
   </component>
   <component name="RunManager" selected="Python.extract-netlist">
     <configuration default="false" name="extract-netlist" type="PythonConfigurationType" factoryName="Python" temporary="true">
@@ -254,19 +275,20 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="46" y="125" width="1765" height="955" extended-state="0" />
-    <editor active="true" />
+    <frame x="37" y="25" width="1765" height="955" extended-state="0" />
+    <editor active="false" />
     <layout>
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32961586" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25277293" sideWeight="0.6703841" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25861064" sideWeight="0.6703841" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39900866" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32961586" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32961586" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -335,42 +357,8 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="python-line">
-          <url>file://$PROJECT_DIR$/fritzing/extract-netlist.py</url>
-          <line>12</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
       <option name="time" value="2" />
     </breakpoint-manager>
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/fritzing/extract-netlist.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="e#0#27#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/fritzing/sm-spike.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="0" selection-start="23" selection-end="23" vertical-scroll-proportion="0.01923077">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/fritzing/extract-netlist.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="98" selection-start="466" selection-end="1014" vertical-scroll-proportion="0.44230768">
-          <folding>
-            <element signature="e#0#27#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
   </component>
 </project>
 

@@ -1,0 +1,31 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=lobstar-0.2.1
+*Date=09:04:37
+*CreatedBy=Fritzing 0.8.3b.07.27.048f
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;;THT;33.6457;-18.1796;-90;Bottom;J3
+2;;;28.2702;-5.5407;0;Bottom;Copper Fill37
+3;;;17.6276;-8.3093;0;Bottom;Copper Fill36
+4;;;2.70715;-2.46309;0;Bottom;TXT3
+5;;[THT];7.95562;-4.66561;-90;Bottom;S1
+6;;;28.2702;-10.9001;0;Bottom;Copper Fill51
+7;;;7.50022;-19.0671;0;Bottom;TXT2
+8;;THT;3.16569;-12.5916;0;Bottom;FTDI
+9;10k;THT;14.5957;-5.47955;-90;Bottom;R1
+10;;dip;33.6457;-11.8296;-90;Bottom;U1
+11;;THT;33.6457;-5.47955;-90;Bottom;J2
+12;;;12.7254;-13.6179;0;Bottom;Copper Fill4
+13;;;35.3314;-14.6847;0;Bottom;Copper Fill1
+14;100nF;200 mil [THT, multilayer];12.5637;-10.5596;90;Bottom;C1
+15;;THT;53.9657;-13.0996;0;Bottom;Y1
+16;;;43.0835;-2.2539;0;Bottom;TXT1
